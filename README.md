@@ -1,0 +1,1 @@
+Python Project book Store management System.This project BOOKSHOP SYSTEM includes some facilities for the retail book shop to maintain records of the books and also search, display, modification, delete etc the books available. This software searches the books data which is store in the record.
